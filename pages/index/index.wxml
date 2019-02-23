@@ -1,0 +1,107 @@
+<body class="mui-android mui-wechat mui-android-7 mui-android-7-1 mui-android-7-1-1 mui-wechat-6 mui-wechat-6-6 mui-wechat-6-6-1 mui-wechat-6-6-1-1220">
+<!--头部-->
+<view class="fixed">
+  <header class="mui-bar mui-bar-nav" id="header"> <a class="btn"><i class="iconfont">󰊝</i></a>
+    <view class="top-sch-box flex-col">
+      <view class="centerflex"> <i class="fdj fa fa-search"></i>
+        <view class="sch-txt">请输入关键字</view>
+        <span class="shaomiao"><i class="iconfont icon-saoma"></i></span> </view>
+    </view>
+    <a class="btn"><i class="fa fa-envelope-o" style="font-size:.58rem;"></i></a> </header>
+</view>
+<view class="h45"></view>
+
+<!--分类-->
+<view class="eight edit" data-height="400px" data-width="700px" data-title="banner图" data>
+  <ul>
+  	<li><a><image src="http://mweb.xhpx2003.cn/Public/Mweb/assets/icon/p_7.png" /><view><p>人力资源</p></view></a></li><li><a><image src="http://mweb.xhpx2003.cn/Public/Mweb/assets/icon/p_6.png" /><view><p>营销销售</p></view></a></li><li><a><image src="http://mweb.xhpx2003.cn/Public/Mweb/assets/icon/p_3.png" /><view><p>互联网+</p></view></a></li><li><a><image src="http://mweb.xhpx2003.cn/Public/Mweb/assets/icon/p_1.png" /><view><p>PPP系列</p></view></a></li><li><a><image src="http://mweb.xhpx2003.cn/Public/Mweb/assets/icon/p_2.png" /><view><p>财务管理</p></view></a></li><li><a><image src="http://mweb.xhpx2003.cn/Public/Mweb/assets/icon/p_4.png" /><view><p>生产采购</p></view></a></li><li><a><image src="http://mweb.xhpx2003.cn/Public/Mweb/assets/icon/p_5.png" /><view><p>宏观经济</p></view></a></li><li><a><image src="http://mweb.xhpx2003.cn/Public/Mweb/assets/icon/p_8.png" /><view><p>工程管理</p></view></a></li>  	    <view class="clear"></view>
+  </ul>
+</view> 
+
+
+
+
+<!--精彩活动-->
+<view class="sectiond"> </view>
+
+<!--推荐内容-->
+<view class="tab_proList">
+  <dl>
+    <dt><a class="currStyle">推荐讲师</a><a>热门课程<i class="iconfont">󰊺</i></a></dt>
+    <dd>
+      <ul>
+        <li> <a>
+            <h3><image src="http://heh-1251609649.cos.ap-shanghai.myqcloud.com/uploads%2F393%2Ferp%2Fjpeg%2F201808%2F29%2F0647826569.jpeg" style='width: 100%;' /></h3>
+            <view class="goodsInfor">
+              <h2>王吉鹏<i class="iconfont fc0">󰂰</i><span><i class="iconfont">󰊕</i>北京市</span></h2>
+              <p>擅长领域:《品牌规划管理》 《现代企业公司治理发展模式》 《变革管理与转型创新》 《并购企业的文化整合与融合》 《产融结合》 《国有企业改革与发展》 《集团公司并购与重组的人力资源整合》 《企业文化建设与管理》 《企业战略思维与创新》</p>
+            </view>
+            </a> </li><li> <a>
+            <h3><image src="http://heh-1251609649.cos.ap-shanghai.myqcloud.com/uploads%2Fhome%2F2018-03%2F12%2F4956f21725a551c75b33a348ce8b9de6.png" /></h3>
+            <view class="goodsInfor">
+              <h2>武海峰<i class="iconfont fc0">󰂰</i><span><i class="iconfont">󰊕</i>北京市</span></h2>
+              <p>擅长领域:《招投标相关法律法规》、《建设工程法规及相关知识》、《劳动法相关法律法规》</p>
+            </view>
+            </a> </li><li> <a>
+            <h3><image src="http://heh-1251609649.cos.ap-shanghai.myqcloud.com/uploads%2Fhome%2F2018-03%2F12%2F45b963e0b26726651a01845242a9f843.jpeg" /></h3>
+            <view class="goodsInfor">
+              <h2>陈伟<i class="iconfont fc0">󰂰</i><span><i class="iconfont">󰊕</i>北京市</span></h2>
+              <p>擅长领域:《招投标战略管理》、《招投标心理分析》、《合作者--大客户维护与持续营销》、《招投标法实施条例解读》、《招标采购部务实管理》</p>
+            </view>
+            </a> </li><li> <a>
+            <h3><image src="http://heh-1251609649.cos.ap-shanghai.myqcloud.com/uploads%2Fhome%2F2018-03%2F12%2F8abe57e353e4b9b9bc3343998182d14f.jpeg" /></h3>
+            <view class="goodsInfor">
+              <h2>王延臣<i class="iconfont fc0">󰂰</i><span><i class="iconfont">󰊕</i>北京市</span></h2>
+              <p>擅长领域:</p>
+            </view>
+            </a> </li><li> <a>
+            <h3><image src="http://heh-1251609649.cos.ap-shanghai.myqcloud.com/uploads%2Fhome%2F2018-03%2F12%2F0a9efa49ae707ca5d4a6535536d7c4a5.png" /></h3>
+            <view class="goodsInfor">
+              <h2>罗云<i class="iconfont fc0">󰂰</i><span><i class="iconfont">󰊕</i>北京市</span></h2>
+              <p>擅长领域:安全经济学、安全文化、事故预防理论、现代企业安全管理、安全信息系统等</p>
+            </view>
+            </a> </li>      </ul>
+    </dd>
+    <dd style="display: none;">
+      <ul>
+        <li id="p15"> <a>
+            <h4><image src="http://heh-1251609649.cos.ap-shanghai.myqcloud.com/uploads%2F393%2Ferp%2Fjpeg%2F201808%2F30%2F0065029918.jpeg" style="height: 62px;" /></h4>
+            <view class="goodsInfor2">
+              <h2>汽车行业发展趋势</h2>
+              <p>授课讲师:<del>周放生</del></p>
+              <p><ins><i class="iconfont">󰊧</i>师资认证</ins></p>
+            </view>
+            </a> </li><li id="p15"> <a>
+            <h4><image src="http://heh-1251609649.cos.ap-shanghai.myqcloud.com/uploads%2F393%2Ferp%2Fjpeg%2F201808%2F30%2F2322629087.jpeg" style="height: 62px;" /></h4>
+            <view class="goodsInfor2">
+              <h2>宏观经济、对外经贸政策，国际收支政策和宏观经济分析</h2>
+              <p>授课讲师:<del>赵晋平</del></p>
+              <p><ins><i class="iconfont">󰊧</i>师资认证</ins></p>
+            </view>
+            </a> </li><li id="p15"> <a>
+            <h4><image src="http://heh-1251609649.cos.ap-shanghai.myqcloud.com/uploads%2F393%2Ferp%2Fjpeg%2F201808%2F30%2F2647401629.jpeg" style="height: 62px;" /></h4>
+            <view class="goodsInfor2">
+              <h2>宏观经济分析和发展战略</h2>
+              <p>授课讲师:<del>张立群</del></p>
+              <p><ins><i class="iconfont">󰊧</i>师资认证</ins></p>
+            </view>
+            </a> </li><li id="p15"> <a>
+            <h4><image src="http://heh-1251609649.cos.ap-shanghai.myqcloud.com/uploads%2F393%2Ferp%2Fjpeg%2F201808%2F30%2F2576156276.jpeg" style="height: 62px;" /></h4>
+            <view class="goodsInfor2">
+              <h2>宏观经济学、区域经济、国际经济</h2>
+              <p>授课讲师:<del>袁钢明</del></p>
+              <p><ins><i class="iconfont">󰊧</i>师资认证</ins></p>
+            </view>
+            </a> </li><li id="p15"> <a>
+            <h4><image src="http://heh-1251609649.cos.ap-shanghai.myqcloud.com/uploads%2F393%2Ferp%2Fpng%2F201808%2F30%2F2597926014.png" style="height: 62px;" /></h4>
+            <view class="goodsInfor2">
+              <h2>《经济形势分析》</h2>
+              <p>授课讲师:<del>姚景源</del></p>
+              <p><ins><i class="iconfont">󰊧</i>师资认证</ins></p>
+            </view>
+            </a> </li>      </ul>
+    </dd>
+  </dl>
+</view>
+
+</body>

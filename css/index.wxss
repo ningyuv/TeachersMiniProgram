@@ -1,0 +1,121 @@
+/*海报样式*/
+#slide{width:100%;overflow: hidden;position:relative;float:left;}
+#slide .swiper-slide{text-align:center;}
+#slide .swiper-slide image{width:auto;max-width:100%;width:100%;}
+#slide .pagination{position: absolute; z-index: 20; bottom:5px; width:100%; text-align: center; right:0;}
+#slide .swiper-pagination-bullet{display: inline-block; width:5px; height:5px; border-radius:5px; background:#fff; margin: 0 2px; opacity: 0.8; cursor: pointer;}
+#slide .swiper-pagination-bullet-active{background:#ff0;}
+
+
+/*分类样式*/
+.eight{width:100%;background:#fff;padding:10px 0;}
+.eight ul{padding:0 10px;}
+.eight ul li{float:left;width:25%;text-align:center;margin-top:12px;}
+.eight ul li image{width:45px;height:45px;}
+.eight ul li p{width:100%;padding-top:4px;font-size:13px;}
+
+
+/*分类菜单样式*/
+.table-container {width: 100%;overflow-y: auto;_overflow: auto;background:white;padding:8px 0;float:left;padding-top:15px;}
+.table-container td{text-align:center;}
+.table-container  image {width:1.3rem;height:1.3rem;border-radius:50%;margin:0 .391rem;}
+.table-container td  em{display:block;font-style:normal;color:#666;margin:5px .30rem;}
+
+
+/*精彩活动*/
+.sectiond {margin:4px 0;width:100%;float:left;}
+.sectiond h3 image{width:100%;}
+.two a{width:49%;float:left;margin:0 0.5%;}
+.two image{width:100%;}
+.bor_left{border-left:2px;}
+.bor_right{border-right:3px #000 solid;}
+
+
+/*热门推荐样式*/
+.tab_proList{padding:0 0%;overflow:hidden;background:white;margin:0;float:left;width:100%;}
+.tab_proList dt{padding:0;height:40px;line-height:40px;display:box;display:-webkit-box;display:-moz-box;}
+.tab_proList dt a{display:block;box-flex:1;-webkit-box-flex:1;-moz-box-flex:1;text-align:center;color:#666;border-bottom:1px #d2d2d2 solid;font-size:15px; position:relative;}
+.tab_proList dt a:hover{border:none;border-bottom:2px #dd2727 solid;}
+.tab_proList dt a i{font-size:.3rem;color:#dd2727;padding-left:3px;line-height:0; position:absolute;top:15px;}
+.tab_proList dt .currStyle{color:#dd2727;border-bottom:2px #dd2727 solid;}
+.tab_proList dd{margin:.13rem 0;}
+.tab_proList ul{padding:0 3%;}
+.tab_proList dd li{overflow:hidden;border-bottom:1px #ddd dotted;padding:5px 0 ;}
+.tab_proList dd li:last-child{margin:0;}
+
+.tab_proList ul li h3{width:50px;height:50px;display:block;float:left;text-align:center;overflow:hidden;position:relative;}
+.tab_proList ul li h3 image{width:100%;border-radius:50px;}
+.goodsInfor{margin-left:60px;position:relative;}
+.goodsInfor h2 {display:block;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#444;font-size:14px;padding-top:5px;width:100%;font-weight:normal;}
+.goodsInfor h2 s{text-decoration:none;font-size:12px;color:#999;}
+.goodsInfor h2 strong{font-weight:bold;color:#fe3d7a;padding-left:3px;}
+.goodsInfor h2 b{font-weight:bold;color:#1a7fff;padding-left:3px;}
+.goodsInfor h2 span{float:right;color:#999;font-size:12px;}
+.goodsInfor h2 span i{padding-right:3px;}
+.goodsInfor p{margin:.1rem 0;font-size:13px; position:relative;}
+.goodsInfor p a{padding-right:10px;}
+.goodsInfor p s{font-size:0.3rem;text-decoration:none;font-weight:normal;}
+.goodsInfor p a image{display:block; position:absolute;right:5px;top:-15px;}
+.goodsInfor p .price{color:#64ab5b;}
+
+.goodsInfor .addToCart{position:absolute;top:30%;right:3%;font-family:'freshregular';font-size:.65rem;color:#f0c600;}
+.fc0{color:#fc0;padding-left:4px;}
+
+#p15{padding:6px 0 10px 0;}
+.tab_proList ul li h4{width:85px;display:block;float:left;text-align:center;overflow:hidden;position:relative;}
+.tab_proList ul li h4 image{width:100%;border-radius:5px;}
+.goodsInfor2{margin-left:95px;position:relative;}
+.goodsInfor2 h2 {display:block;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;color:#444;font-size:15px;width:100%;font-weight:normal;}
+.goodsInfor2 h2 s{text-decoration:none;font-size:13px;color:#999;}
+.goodsInfor2 h2 strong{font-weight:bold;color:#fe3d7a;padding-left:3px;}
+.goodsInfor2 h2 b{font-weight:bold;color:#1a7fff;padding-left:3px;}
+.goodsInfor2 h2 span{float:right;color:#999;font-size:13px;}
+.goodsInfor2 h2 span i{padding-right:3px;}
+.goodsInfor2 p{margin:.13rem 0;font-size:13px; position:relative;}
+.goodsInfor2 del{color:#666;text-decoration:none;padding-left:4px;}
+.goodsInfor2 p em {font-size: 12px;color: #ff5a60;margin-right:5px;float: left;font-style:normal;}
+.goodsInfor2 p ins {font-size: 12px;color: #f90;float: left;text-decoration:none;}
+
+
+/*标题*/
+.titled{width:94%;float:left;height:40px;line-height:40px;border-bottom:1px #ddd solid;font-size:15px;padding:0 3%;}
+.titled i{width:3px;height:15px;display:block;float:left;margin-top:12px;margin-right:4px;}
+.titled span{float:right;font-size:12px;color:#999;}
+.titled a{display:block;}
+.red{background:#fa341c;}
+.blue{background:#30a7f8;}
+.green{background:#59c55b;}
+.violet{background:#ac8af2;}
+.orange{background:#f90;}
+
+/*总裁班*/
+.zongcai,.admin,.HR,.xiao,.bank{overflow:hidden;background:white;margin-top:6px;float:left;width:100%;}
+.zongcai ul{padding-bottom:10px;float:left;width:97%;padding-right:3%;}
+.zongcai ul li{float:left;width:22%;margin-left:3%;text-align:center;background:#f4f4f4;padding:15px 0 10px 0; border-radius:5px;font-size:13px;line-height:20px;margin-top:10px;}
+.zongcai ul li i{width:100%;font-size:30px;color:#fa341c;line-height:22px;}
+.zongcai ul li p{padding-top:4px;}
+
+/*管理课*/
+.admin ul{padding-bottom:10px;float:left;width:97%;padding-right:3%;}
+.admin ul li{float:left;width:22%;margin-left:3%;text-align:center;background:#f4f4f4;padding:15px 0 10px 0; border-radius:5px;font-size:13px;line-height:20px;margin-top:10px;}
+.admin ul li i{width:100%;font-size:30px;color:#30a7f8;line-height:22px;}
+.admin ul li a:hover{color:#30a7f8;}
+.admin ul li p{padding-top:4px;}
+
+/*培训/人力*/
+.HR ul{padding-bottom:10px;float:left;width:97%;padding-right:3%;}
+.HR ul li{float:left;width:47%;margin-left:3%;background:#f4f4f4;margin-top:10px;}
+.HR ul li image{width:100%;}
+
+/*销售/连锁*/
+.xiao ul{padding-bottom:10px;float:left;width:97%;padding-right:3%;}
+.xiao ul li{float:left;width:30.3%;margin-left:3%;margin-top:10px;}
+.xiao ul li image{width:100%;}
+
+
+/*银行*/
+.bank ul{padding-bottom:10px;float:left;width:97%;padding-right:3%;}
+.bank ul li{float:left;width:22%;margin-left:3%;text-align:center;background:#f4f4f4;padding:15px 0 10px 0; border-radius:5px;font-size:13px;line-height:20px;margin-top:10px;}
+.bank ul li i{width:100%;font-size:30px;color:#f90;line-height:22px;}
+.bank ul li p{padding-top:4px;}
+
